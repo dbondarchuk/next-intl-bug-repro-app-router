@@ -1,5 +1,7 @@
 {
   "IndexPage": {
-    "title": "Hello!"
+    "title": "Hello!",
+    "rich_escape": "<p>Message to show to the user.</p><p>You can use following placeholders:</p><p><i>- '{days'} </i> - to show the amount of days,</p>",
+    "rich_not_enclosed_escape": "Message to show to the user.<br></br>You can use following placeholders:<br></br>'{{days'}} to show the amount of days,"
   }
 }
