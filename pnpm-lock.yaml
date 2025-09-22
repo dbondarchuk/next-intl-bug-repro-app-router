@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
+  intl-messageformat:
+    specifier: ^10.7.16
+    version: 10.7.16
   next:
     specifier: ^15.3.2
     version: 15.5.3(react-dom@19.1.1)(react@19.1.1)
